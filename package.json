@@ -6,6 +6,7 @@
     "test": "node ./node_modules/lab/bin/lab -v -c -p"
   },
   "dependencies": {
+    "boom": "^2.4.2",
     "nipple": "^2.5.3"
   },
   "devDependencies": {
