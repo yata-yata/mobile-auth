@@ -6,14 +6,14 @@
     "test": "node ./node_modules/lab/bin/lab -v -c -p"
   },
   "dependencies": {
-    "boom": "^2.4.2",
-    "nipple": "^2.5.3"
+    "boom": "*",
+    "nipple": "*"
   },
   "devDependencies": {
-    "lab": "^3.1.1",
-    "hapi": "^4.1.0"
+    "lab": "*",
+    "hapi": ">=4.x"
   },
   "peerDependencies": {
-    "hapi": "4.x"
+    "hapi": ">=4.x"
   }
 }
