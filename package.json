@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "boom": "*",
+    "form-data": "^0.1.3",
     "nipple": "*"
   },
   "devDependencies": {
